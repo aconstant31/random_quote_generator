@@ -1,0 +1,45 @@
+body {
+    background-color: #3a75b4;
+}
+
+#container {
+    background-color: #555050;
+    border: 10px solid #fcf8e3;
+    border-radius: 25px;
+    height: 300px;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 70px;
+}
+
+#quoteButton {
+    margin: 50px;
+    padding: 20px;
+    height: 200px;
+    width: 400px;
+    border-radius: 25px;
+    font-size: 50px;
+    background-color: #c2c2c2e3;
+}
+
+#quote {
+    height: 200px;
+    width: 800px;
+    margin: 25px auto;
+    padding: 90px;
+    font-size: 50px;
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+
+#author {
+    height: 100px;
+    width: 800px;
+    margin: 25px auto;
+    padding: 50px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
